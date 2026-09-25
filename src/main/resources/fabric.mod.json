@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "purplehoney",
+  "version": "1.0.0",
+  "name": "Purple Honeycomb Wood",
+  "description": "Adds Honeycomb Stairs and recolors oak wood purple (keeping the wood grain look).",
+  "authors": ["You"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/purplehoney/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.purplehoney.PurpleHoneyMod"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "fabric-api": "*",
+    "java": ">=21"
+  }
+}

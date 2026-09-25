@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "minecraft:honeycomb_block" }
+  },
+  "result": {
+    "id": "purplehoney:honeycomb_stairs",
+    "count": 4
+  }
+}

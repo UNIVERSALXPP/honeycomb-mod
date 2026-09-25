@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "purplehoney:block/honeycomb_block",
+    "top": "purplehoney:block/honeycomb_block",
+    "side": "purplehoney:block/honeycomb_block"
+  }
+}
